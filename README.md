@@ -2,7 +2,7 @@
 
 !**[My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
 
-These are my top notebooks. Many people like my work
+These are my top notebooks. Many people like my work and upvote my notebook. In the competitions, I have covered alot of machine learning and deep learning algorithms. I have also learn different data pre-processing techniques.
 
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
