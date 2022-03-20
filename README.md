@@ -4,7 +4,7 @@
 
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | UltraMnist | Complex Images | • CNN | Update Soon | <br />
+| 1. | UltraMnist | Complex Images with many numbers | • CNN | Update Soon | <br />
 | 2. | Digit Recognizer | Number Image | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
 | 4. | 30 Days ML by Kaggle | • Tabular Data • Regression | • Decision Tree • SVM • Catboost • Linear Regression |https://www.kaggle.com/code/moizkhan11/30-days-ml-competition |<br />
@@ -14,9 +14,6 @@
 
 and many more Visit my Kaggle profile!
 
-| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
-| ------------ | ------------- | ------------ | ------------- | ------------- |
-| 1. | UltraMnist | Complex Images | • CNN | Update Soon | 
 
 
 
