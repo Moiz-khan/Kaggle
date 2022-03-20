@@ -3,7 +3,7 @@
 **![My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
 
 
-| **S.No** | **Compeition Name** | **Model** | **Notebook Link** |
+| **S.No** | **Competitions Name** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------|
 | 1. | UltraMnist | • CNN | Update Soon |
 | 2. | Digit Recognizer | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |
