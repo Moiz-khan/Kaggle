@@ -2,8 +2,8 @@
 
 **![My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
 
-| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** | <br />
-| ------------ | ------------- | ------------ | -------------| -------------|<br />
+| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
+| ------------ | ------------- | ------------ | -------------| ------------- |
 | 1. | UltraMnist | Complex Images | • CNN | Update Soon | <br />
 | 2. | Digit Recognizer | Number Image | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
