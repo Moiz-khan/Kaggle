@@ -9,7 +9,7 @@ On **Week 1** we will cover the basics of **Python** which includes:
 
 **S.No** | **Compeition Name** | **Model** | **Notebook Link** |
 ------------ | ------------- | ------------ | -------------
-1. | Level up to Contributor | a|b|
+1. | Level up to Contributor | a | b |
 2. | Hello, Python Intro(Lesson 1)
 3. | Functions and Getting help (Lesson 2)
 4. | Booleans and Conditionals (Lesson 3)
