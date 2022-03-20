@@ -7,7 +7,7 @@ Now lets get started!!!
 Resources **Video Lecture by Abhishek Thakur** For better Understanding of Python Link:https://www.youtube.com/playlist?list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N
 On **Week 1** we will cover the basics of **Python** which includes:
 
-**S.No** | **Compeition Name** | **Model** | **Notebook Link** 
+**S.No** | **Compeition Name** | **Model** | **Notebook Link** |
 ------------ | ------------- | ------------ | -------------
 1. | Level up to Contributor
 2. | Hello, Python Intro(Lesson 1)
