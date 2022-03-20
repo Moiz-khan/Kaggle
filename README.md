@@ -5,10 +5,9 @@
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** | <br />
 | ------------ | ------------- | ------------ | -------------|<br />
 | 1. | UltraMnist | Complex Image Many numbers in single image | • CNN | Update Soon | <br />
-| 2. | Digit Recognizer | Number Image | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |
-| 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |
-
-| 4. | 30 Days ML by Kaggle | • Tabular Data • Regression | • Decision Tree • SVM • Catboost • Linear Regression |https://www.kaggle.com/code/moizkhan11/30-days-ml-competition |
+| 2. | Digit Recognizer | Number Image | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
+| 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
+| 4. | 30 Days ML by Kaggle | • Tabular Data • Regression | • Decision Tree • SVM • Catboost • Linear Regression |https://www.kaggle.com/code/moizkhan11/30-days-ml-competition |<br />
 
 | 5. | Housing Price Competition | • Regression | • Random Forest | https://www.kaggle.com/code/moizkhan11/exercise-house-price-top-15 |
 | 6. | Hyper Parameter Optimization | • Continuous Variables |• Optuna Library | https://www.kaggle.com/code/moizkhan11/optuna |
