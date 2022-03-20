@@ -1,6 +1,8 @@
 # Kaggle Projects
 
-**![My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
+![My kaggle Profile](https://www.kaggle.com/moizkhan11)
+
+These are my top notebooks. Many people like my work
 
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
