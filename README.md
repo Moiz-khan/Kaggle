@@ -14,9 +14,9 @@
 
 and many more Visit my Kaggle profile!
 
-| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** | <br />
-| ------------ | ------------- | ------------ | -------------|<br />
-| 1. | UltraMnist | Complex Images | • CNN | Update Soon | <br />
+| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
+| ------------ | ------------- | ------------ | ------------- | ------------- |
+| 1. | UltraMnist | Complex Images | • CNN | Update Soon | 
 
 
 
