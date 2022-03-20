@@ -4,8 +4,8 @@
 [link]: https://www.mozilla.org
 
 
-| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
-| ------------ | ------------- | ------------ | -------------|
+| **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** | <br />
+| ------------ | ------------- | ------------ | -------------|<br />
 | 1. | UltraMnist |Complex Image (Many numbers in single image) | • CNN | Update Soon |
 | 2. | Digit Recognizer | Number Image | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |
 | 3. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |
