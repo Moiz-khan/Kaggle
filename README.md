@@ -1,7 +1,7 @@
 # Kaggle Projects
 
 **![My kaggle Profile]**(https://www.kaggle.com/moizkhan11)
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[link]: https://www.mozilla.org
 
 
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
