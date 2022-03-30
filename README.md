@@ -6,7 +6,7 @@ These are my top notebooks. Many people like my work and upvote my notebook. In 
 
 | **S.No** | **Competitions Name** |  **Dataset** | **Model** | **Notebook Links** |
 | ------------ | ------------- | ------------ | -------------| ------------- |
-| 1. | Sastaticket Competition | • Regression | •  | Update Soon | <br />
+| 1. | Sastaticket Competition | • Regression | Decision Tree  | https://drive.google.com/file/d/15d3Ou7CbUapZWUmlPTboXNK-Vy2NuhqO/view?usp=sharing | <br />
 | 2. | UltraMnist | Complex Images with many numbers • Classification | • CNN | Update Soon | <br />
 | 3. | Digit Recognizer | Number Image • Classification | • CNN • Tensorflow | https://www.kaggle.com/code/moizkhan11/digitrecognizer-99-acc |<br />
 | 4. | Pakistan Stock Exchange (KSE 100) | Time Series | • LSTM | https://www.kaggle.com/code/moizkhan11/pakistanstockexch |<br/>
